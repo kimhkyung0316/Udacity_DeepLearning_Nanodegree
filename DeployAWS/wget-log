@@ -1,0 +1,11 @@
+--2019-07-12 02:58:47--  http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+Resolving ai.stanford.edu (ai.stanford.edu)... 171.64.68.10
+Connecting to ai.stanford.edu (ai.stanford.edu)|171.64.68.10|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84125825 (80M) [application/x-gzip]
+Saving to: ‘../data/aclImdb_v1.tar.gz’
+
+                 ..  96%[==================> ]  77.28M  11.3MB/s    eta 1s                     ../  98%[==================> ]  79.42M  11.5MB/s    eta 0s     ../data/aclImdb_v1. 100%[===================>]  80.23M  11.6MB/s    in 8.4s    
+
+2019-07-12 02:58:56 (9.51 MB/s) - ‘../data/aclImdb_v1.tar.gz’ saved [84125825/84125825]
+
